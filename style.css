@@ -1,0 +1,27 @@
+/*********************
+
+COMMON
+
+**********************/
+
+body {
+    font-family: "monospace", sans-serif;
+}
+
+nav {
+    background-color: #C6B7BF;
+}
+
+.font-primary {
+    color: #FFFFFF;
+    font-family: "avenir";
+    font-size: 20px;
+    text-shadow: 0px 3px 6px #747474;
+}
+
+.title-icon {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
