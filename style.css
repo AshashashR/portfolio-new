@@ -6,10 +6,15 @@ COMMON
 
 body {
     font-family: "monospace", sans-serif;
+    background-color: #F4EFF2;
 }
 
 nav {
     background-color: #C6B7BF;
+}
+
+.nav-link {
+    color: #FFFFFF;
 }
 
 .font-primary {
@@ -24,4 +29,85 @@ nav {
     font-weight: bold;
 }
 
+a.font-black {
+    color: #FFFFFF !important;
+    text-shadow: 0px 3px 6px #747474;
+}
 
+/*******************
+
+ABOUT ME
+
+********************/
+
+.card {
+    width: 600px;
+    border-radius: 30px;
+    margin: auto;
+    margin-top: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    text-align: center;
+}
+
+.card img {
+    width: 100%;
+    border-radius: 20px;
+    border: 9px solid #FFFFFF;
+}
+
+#aboutme {
+    margin: 40px auto;
+    width: 80%;
+}
+
+#aboutme .font-primary {
+    margin: center;
+    color: #707070;
+    text-shadow: 1px 1px #C7C7C7;
+    font-size: 30px;
+    text-align: center;
+}
+
+#aboutme .name {
+    font-family: "avenir";
+    font-size: 25px;
+    font-weight: bold;
+    color: #000000;
+    text-shadow: 1px 1px 1px #707070;
+}
+
+#aboutme .line {
+    font-weight: bold;
+    font-size: 25px;
+    color: #AE005E;
+}
+
+#aboutme .vocation {
+    font-size: 17px;
+    color: #707070;
+    text-shadow: 1px 0.5px #C7C7C7;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+#aboutme .skills {
+    font-size: 14px;
+    color: #AE005E;
+    margin-bottom: 10px;
+}
+
+#aboutme .email {
+    margin-top: 14px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+#aboutme .icons {
+    margin-top: 20px;
+    font-size: 30px;
+}
+
+#aboutme .icons a {
+    color: #000;
+    text-shadow: 1px 1px #707070;
+}
