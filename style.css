@@ -126,17 +126,21 @@ PROJECTS
 
 #projects .font-primary {
     margin: center;
-    margin-bottom: 20px;
     color: #AE005E;
-    text-shadow: 1px 1px #C7C7C7;
+    text-shadow: 1px 1px 1px #C7C7C7;
     font-size: 30px;
     text-align: center;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    box-shadow: 1px 1px #C7C7C7;
+    border-color: #FFFFFF;
 }
 
 
 #projects h2 {
     text-align: center;
 }
+
 
 #projects .card img {
     width: 100%;
