@@ -41,12 +41,13 @@ ABOUT ME
 ********************/
 
 .card {
-    width: 600px;
+    width: 70%;
     border-radius: 30px;
     margin: auto;
     margin-top: 20px;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     text-align: center;
+    justify-content: auto;
 }
 
 .card img {
@@ -110,4 +111,53 @@ ABOUT ME
 #aboutme .icons a {
     color: #000;
     text-shadow: 1px 1px #707070;
+}
+
+/**********************
+
+PROJECTS
+
+***********************/
+
+#projects {
+    margin: 60px auto;
+    width: 100%;
+}
+
+#projects .font-primary {
+    margin: center;
+    margin-bottom: 20px;
+    color: #AE005E;
+    text-shadow: 1px 1px #C7C7C7;
+    font-size: 30px;
+    text-align: center;
+}
+
+
+#projects h2 {
+    text-align: center;
+}
+
+#projects .card img {
+    width: 100%;
+}
+
+#projects .card-title {
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 1px 1px #C7C7C7; 
+}
+
+#projects .card-text {
+    text-align:center;
+}
+
+.btn {
+    background-color: #AE005E; 
+    box-shadow: 1px 1px #C7C7C7; 
+}
+
+.bouton:hover {
+    background-color: #707070;
+    color: white;
 }
