@@ -41,7 +41,7 @@ ABOUT ME
 ********************/
 
 .card {
-    width: 60%;
+    width: 70%;
     border-radius: 30px;
     margin: auto;
     margin-top: 20px;
@@ -50,9 +50,9 @@ ABOUT ME
     justify-content: auto;
 }
 
-.card img {
-    width: 100%;
-    border-radius: 20px;
+.card .avatar img {
+    width: 60%;
+    padding-top: 40px;
     border: 9px solid #FFFFFF;
 }
 
@@ -148,6 +148,8 @@ PROJECTS
 
 #projects .card img {
     width: 100%;
+    border-radius: 20px;
+    border: 9px solid #FFFFFF;
 }
 
 #projects .card-title {
@@ -192,4 +194,10 @@ PROJECTS
 .btn-primary:hover, .btn-secondary:hover {
     background-color: #707070;
     color: white;
+}
+
+@media only screen and (max-width: 540px) {
+    .card .avatar .img {
+        width: auto;
+    }
 }
