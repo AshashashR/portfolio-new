@@ -6,7 +6,7 @@ This portfolio is a small project using HTML / CSS and Boostrap. I will be using
 
 [Screenshots]
 
-<img width="514" alt="Capture d’écran 2021-10-22 à 13 36 55" src="https://user-images.githubusercontent.com/78886716/138394147-29969cb2-d908-44a7-9cbf-850bdad76b34.png">
+<img width="514" alt="Capture d’écran 2021-10-22 à 13 39 40" src="https://user-images.githubusercontent.com/78886716/138394336-edae94a0-5f39-448a-8eda-906a6a4fc21e.png">
 
 <img width="514" alt="Capture d’écran 2021-10-22 à 13 32 45" src="https://user-images.githubusercontent.com/78886716/138393958-e759a7df-c870-4724-9fa8-ec7288a15b58.png">
 
@@ -15,11 +15,8 @@ This portfolio is a small project using HTML / CSS and Boostrap. I will be using
 
 * HTML
 * CSS
+* Bootstrap
 
 ## Installation
 
 No need to install any software, just open up index.html
-
-## How to use ?
-
-Use this template to build your own portfolio.
