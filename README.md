@@ -6,12 +6,9 @@ This portfolio is a small project using HTML / CSS and Boostrap. I will be using
 
 [Screenshots]
 
-<img width="1123" alt="Capture d’écran 2021-03-14 à 18 30 17" src="https://user-images.githubusercontent.com/78886716/111063839-2c985700-84f4-11eb-8d8a-bcd5913f16b2.png">
+<img width="1123" alt="Capture d’écran 2021-03-14 à 18 30 17" src="<img width="756" alt="Capture d’écran 2021-10-22 à 13 32 29" src="https://user-images.githubusercontent.com/78886716/138393933-6c9b1bdf-c722-407a-a6f2-4e6144790e5a.png">
 
-<img width="1143" alt="Capture d’écran 2021-03-14 à 18 30 33" src="https://user-images.githubusercontent.com/78886716/111063737-bf84c180-84f3-11eb-8e7a-8426c40d4ba5.png">
-
-<img width="1064" alt="Capture d’écran 2021-03-14 à 18 30 46" src="https://user-images.githubusercontent.com/78886716/111063740-c6133900-84f3-11eb-98a1-9f0797e257b3.png">
-
+<img width="1143" alt="Capture d’écran 2021-03-14 à 18 30 33" src="<img width="700" alt="Capture d’écran 2021-10-22 à 13 32 45" src="https://user-images.githubusercontent.com/78886716/138393958-e759a7df-c870-4724-9fa8-ec7288a15b58.png">
 
 
 ## Technologies Used
